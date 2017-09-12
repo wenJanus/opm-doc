@@ -264,6 +264,7 @@ Alternatively, you can download the required archives and install them manually:
     wget http://backpan.perl.org/authors/id/S/SH/SHARIFULN/Mojolicious-Plugin-I18N-0.9.tar.gz
     tar xzf Mojolicious-Plugin-I18N-0.9.tar.gz
     cd Mojolicious-Plugin-I18N-0.9
+    perl Makefile.PL
     make
     make install
 
